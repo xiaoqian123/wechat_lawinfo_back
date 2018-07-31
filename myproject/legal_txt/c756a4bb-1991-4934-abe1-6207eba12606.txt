@@ -1,0 +1,619 @@
+
+
+
+The Company Law of the People's Republic of China（《公司法》英文版）
+
+
+
+
+
+
+
+
+
+
+
+              发布时间：2006年10月26日    
+              信息来源：国家工商总局外商投资企业注册局
+            
+
+
+
+
+
+
+
+The Company Law of the People's Republic of China has been amended and adopted at the 18th session of the Standing Committee of the Tenth National People's Congress of the People's Republic of China on October 27, 2005. The amended Company Law of the People's Republic of China is promulgated hereby and shall go into effect as of January 1, 2006. 
+　　　　　　　　　　　　 The President of the People's Republic of China Hu Jintao
+　　　　　　　　　　　　　 October 27, 2005
+ 
+
+
+The Company Law of the People's Republic of China 
+(revised in 2005)
+(Adopted at the Fifth Session of the Standing Committee of the Eighth National People's Congress on December 29, 1993. Revised for the first time on December 25, 1999 in accordance with the Decision of the Thirteenth Session of the Standing Committee of the Ninth People's Congress on Amending the Company Law of the People's Republic of China. Revised for the second time on August 28, 2004 in accordance with the Decision of the 11th Session of the Standing Committee of the 10th National People's Congress of the People's Republic of China on Amending the Company Law of the People's Republic of China. Revised for the third time at the 18th Session of the 10th National People's Congress of the People's Republic of China on October 27, 2005)
+ 
+ 
+Contents
+ 
+ Chapter I General Provisions
+ Chapter II Incorporation and Organization of a Limited Liability Company
+ Section 1 Incorporation
+ Section 2 Organization
+ Section 3 Special Provisions on One-person Limited Liability Companies
+ Section 4 Special Provisions on wholly State-owned Companies
+ Chapter III Transfer of Stock Right of a Limited Liability Company
+ Chapter IV Incorporation and Organization of a Joint Stock Limited Company
+ Section 1 Incorporation
+ Section 2 Assembly of shareholders
+ Section 3 Board of Directors, Managers
+ Section 4 Board of Supervisors
+ Section 5 Special Provisions on the Organization of a Listed Company
+ Chapter V Issuance and Transfer of Shares of a Joint Stock Limited Company
+ Section 1 Issuance of Shares
+ Section 2 Transfer of Shares
+ Chapter VI Qualifications and Obligations of the Directors, Supervisors and Senior Managers of a Company
+ Chapter VII Company Bonds
+ Chapter VIII Financial Affairs and Accounting of a Company
+ Chapter IX Merger and Division of a Company; Increase and Deduction of Registered Capital
+ Chapter X Dissolution and Liquidation of a Company
+ Chapter XI Branches of a Foreign Company
+ Chapter XII Legal Liabilities Chapter XIII Supplementary Provisions
+ 
+ 
+Chapter I General Provisions
+ Article 1 This Law is formulated for the purposes of regulating the organization and operation of companies, protecting the legitimate rights and interests of companies, shareholders and creditors, maintaining the socialist economic order, and promoting the development of the socialist market economy
+ Article 2 The term "company" as mentioned in this Law refers to a limited liability company or a joint stock limited company established within the territory of the People's Republic of China in accordance with the provisions of this law.
+ Article 3 A company is an enterprise legal person, which has independent legal person property and enjoys the property right of the legal person. And it shall bear the liabilities for its debts with all its property. As for a limited liability company, the shareholders shall be responsible for the company to the extent of the capital contributions they have paid. As for a joint stock limited company, the shareholders shall be responsible for the company to the extent of the shares they have subscribed for.
+ Article 4 The shareholders of a company shall be entitled to enjoy the capital proceeds, participate in making important decisions, choose managers, and so on.
+ Article 5 When undertaking business operations, a company shall comply with the laws and administrative regulations, social morality and business morality. It shall act in good faith, accept the supervision of the government and the general public, and bear social responsibilities. 
+The legitimate rights and interests of a company shall be protected by laws and may not be infringed.
+ Article 6 For the incorporation of a company, an application for incorporation shall be filed with the company registration authority. If the application meets the requirements of this Law, the company registration authority shall register the company as a limited liability company or a joint stock limited company. If the application fails to meet the requirements, it shall not be registered as a limited liability company or a joint stock limited company. 
+If any law or administrative regulation stipulates that the incorporation of a company shall be subject to approval, the relevant approval formalities shall be gone through prior to the registration of the company. 
+The general public may consult the relevant matters on company registration at company registration authority, who shall provide consulting services.
+ Article 7 For a legally established company, the company registration authority shall issue the company business license to it, and the date of issuance of the company business license shall be the date of incorporation of the company. The company business license shall state the name, domicile, registered capital, paid-up capital, scope of business, the name of the legal representative and etc. If any of the items as stated in the business license is changed, the company shall apply for modification registration, and the company registration authority shall re new the business license.
+ Article 8 For a limited liability company established according to this Law, it shall indicate in its name with the words "limited liability company" or "limited company". For a joint stock limited company established according to this Law, it shall indicate in its name the words "joint stock limited company" or "joint stock company".
+ Article 9 The change of a limited liability company to a joint stock limited company shall satisfy the requirements as prescribed in this Law for joint stock limited companies. The change of a joint stock limited company to a limited liability company shall meet the conditions as prescribed in this Law for limited liability companies. Under any of the aforesaid circumstances, the creditor's rights and debts of the company prior to the change shall be succeeded by the company after the change.
+ Article 10 A company shall regard the location of its principal office as its domicile.
+ Article 11 The company established according to this law shall formulate its articles of association which are binding on the company, its shareholders, directors, supervisors and senior managers.
+ Article 12 The company's scope of business shall be defined in its articles of association and shall be registered according to law. The company may change its scope of business by modifying its articles of association, but shall go through the modification registration. If the company’s scope of business covers any item subject to approval according to laws or administrative regulations, the approval shall be obtained beforehand.
+ Article 13 The legal representative of a company shall, according to the provisions of its articles of association, be assumed by the chairman of the board of directors, executive director or manager, and shall be registered according to law. If the legal representative of the company is changed, the company shall go through the modification registration.
+ Article 14 The company may set up branches. To set up a branch, the company shall file a registration application with the company registration authority, and shall obtain the business license. The branch shall not enjoy the status of an enterprise legal person, and its civil liabilities shall be born by the company.
+The company may set up subsidiaries which enjoy the status of an enterprise legal person and shall be independently bear civil liabilities.
+ Article 15 A company may invest in other enterprises. However, it shall not become a capital contributor that shall bear the joint liabilities for the debts of the enterprises it invests in, unless it is otherwise provided for by any law.
+ Article 16 Where a company intends to invest in any other enterprise or provide guarantee for others, it shall, according to the provisions of its articles of association, be decided at the meeting of the board of directors or shareholders’s meeting or shareholders' assembly. If the articles of association prescribe any limit on the total amount of investments or guarantees, or on the amount of a single investment or guarantee, the aforesaid total amount or amount shall not exceed the responsive limited amount. If a company intends to provide guarantee to a shareholder or actual controller of the company, it shall make a resolution through the shareholder's meeting or shareholders' assembly. 
+The shareholder as mentioned in the preceding paragraph or the shareholder dominated by the actual controller as mentioned in the preceding paragraph shall not participate in voting on the matter as mentioned in the preceding paragraph. Such matter requires the affirmative votes of more than half of the other shareholders attending the meeting.
+ Article 17 The company shall protect the lawful rights and interests of its employees, conclude employment contracts with the employees, buy social insurances, strengthen labor protection so as to realize safe production. 
+The company shall, in various forms, reinforce the vocational education and in-service training of its employees so as to improve their professional quality.
+ Article 18 The employees of a company shall, according to the Labor Union Law of the People's Republic of China, organize a labor union, which shall carry out union activities and safeguard the lawful rights and interests of the employees. The company shall provide necessary conditions for its labor union to carry out activities. The labor union shall, on behalf of the employees, conclude the collective contract with the company with respect to the remuneration, working hours, welfare, insurance, operation safety and sanitation and other matters.
+According to the Constitution and other relevant laws, a company shall implement democratic management in the form of meeting of the representatives of the employees or any other ways.
+To make a decision on restructuring or any important issue related to business operation, or to formulate any important regulation, a company shall solicit the opinions of its labor union, and shall solicit the opinions and proposals of the employees through the meeting of the representatives of the employees or in any other way.
+ Article 19 An organization of the Chinese Communist Party shall, according to the Charter of the Chinese Communist Party, be established in the company to carry out activities of the Chinese Communist Party. And the company shall provide necessary conditions for the activities of the Chinese Communist Party.
+ Article 20 The shareholders of a company shall comply with the laws, administrative regulations and articles of association, and shall exercise the shareholder's rights according to law. None of them may injure any of the interests of the company or of other shareholders by abusing the shareholder's rights, or injure the interests of any creditor of the company by abusing the independent status of legal person or the shareholder's limited liabilities.
+Where any of the shareholders of a company causes any loss to the company or to other shareholders by abusing the shareholder's rights, it shall be subject to compensation. 
+Where any of the shareholders of a company evades the payment of its debts by abusing the independent status of legal person or the shareholder's limited liabilities, and thus seriously damages the interests of any creditor, it shall bear joint liabilities for the debts of the company.
+ Article 21 Neither the holding shareholder, nor the actual controller, any of the directors, supervisors or senior managers of the company may injure the interests of the company by taking advantage of its connection relationship. Anyone who has caused any loss to the company due to violation of the preceding paragraph shall be subject to compensation.
+ Article 22 The resolution of the shareholders' meeting, shareholders’s assembly or board of directors of the company that has violated any law or administrative regulation shall be null and void.
+Where the procedures for convoking and the voting form of a shareholders' meeting or shareholders’s assembly or meeting of the board of directors, violate any law, administrative regulation or the articles of association, or the resolution is in violation of the articles of association of the company, the shareholders may, within 60 days as of the day when the resolution is made, request the people's court to revoke it.
+If the shareholders initiate a lawsuit according to the preceding paragraph, the people's court shall, in light of the request of the company, demand the shareholders to provide corresponding guarantee.
+Where a company has, in light of the resolution of the shareholders' meeting,  shareholders’s assembly or meeting of the board of directors, completed the modification registration, and the people's court declares the resolution null and void or revoke the resolution, the company shall file an application with the company registration authority for cancelling the modification registration.
+ 
+ 
+Chapter II Incorporation and Organization of a Limited Liability Company
+Section 1 Incorporation
+ Article 23 The incorporation of a limited liability company shall satisfy the following conditions:
+ (1) The number of shareholders accords with the quorum;
+ (2) The amount of capital contributions paid by the shareholders reaches the statutory minimum amount of the registered capital;
+ (3) The articles of association are worked out jointly by shareholders;
+ (4) The company has a name and its organization complies with that of a limited liability company; and
+ (5) The company has a domicile.
+ Article 24 A limited liability company shall be established by not more than 50 shareholders that have made capital contributions.
+ Article 25 A limited liability company shall state the following items in its articles of association:
+ (1) the name and domicile of the company;
+ (2) the scope of business of the company;
+ (3) the registered capital of the company;
+ (4) names of shareholders;
+ (5) forms, amount and time of capital contributions made by shareholders;
+ (6) the organizations of the company and its formation, their functions and rules of procedure;
+ (7) the legal representative of the company;
+ (8) other matters deemed necessary by shareholders. The shareholders should affix their signatures or seals on the articles of association of the company.
+ Article 26 The registered capital of a limited liability company shall be the total amount of the capital contributions subscribed for by all the shareholders that have registered in the company registration authority. The amount of the initial capital contributions made by all shareholders shall be not less than 20% of the registered capital, nor less than the statutory minimum amount of registered capital, and the margin shall be paid off by the shareholders within 2 years as of the day when the company is established; as for an investment company, it may be paid off within 5 years. The minimum amount of registered capital of a limited liability company shall be RMB 30, 000 Yuan. If any law or administrative regulation prescribes a relatively higher minimum amount of registered capital of a limited liability company, the provisions of that law or administrative regulation shall be followed.
+ Article 27 A shareholder may make capital contributions in currency, in kind or intellectual property right, land use right or other non-currency properties that may be assessed on the basis of currency and may be transferred according to law, excluding the properties that shall not be treated as capital contributions according to any law or administrative regulation.
+The value of the non-currency properties as capital contributions shall be assessed and verified, which shall not be over-valued or under-valued. If any law or administrative regulation prescribes the value assessment, such law or administrative regulation shall be followed.
+The amount of the capital contributions in currency paid by all the shareholders shall be not less than 30% of the registered capital of the limited liability company.
+ Article 28 Every shareholder shall make full payment for the capital contribution it has subscribed to according to the articles of association. If a shareholder makes his/its capital contribution in currency, he shall deposit the full amount of such currency capital contribution into a temporary bank account opened for the limited liability company. If the capital contributions are made in non-currency properties, the appropriate transfer procedures for the property rights therein shall be followed according to law. Where a shareholder fails to make his/its capital contribution as specified in the preceding paragraph, it shall not only make full payment to the company but also bear the liabilities for breach of the contract to the shareholders who have make full payment of capital contributions on schedule.
+ Article 29 The capital contributions made by shareholders shall be checked by a legally established capital verification institution, which shall issue a certification.
+ Article 30 After the initial capital contributions made by the shareholders for the first time have been checked by a legally established capital verification institution, the representative designated by all the shareholders or the agent authorized by all the shareholders shall apply for incorporation registration with a company registration application, the articles of association, capital verification report and other documents to the company registration authority.
+ Article 31 After the incorporation of a limited liability company, if the actual value of the capital contributions in non-currency properties is found to be apparently lower than that provided for in the articles of association of the company, the balance shall be supplemented by the shareholder who has offered them, and the other shareholders of the company who have established the company shall bear joint liabilities.
+ Article 32 After the incorporation of a limited liability company, every shareholder shall be issued with a capital contribution certificate, which shall specify the following:
+ (1) the name of the company;
+ (2) the date of incorporation of the company;
+ (3) the registered capital of the company;
+ (4) the name of the shareholder, the amount of his capital contribution, and the day when the capital contribution is made; and
+ (5) the serial number and date of issuance of the capital contribution certificate. The capital contribution certificate shall bear the seal of the company.
+ Article 33 A limited liability company shall prepare a register of shareholders, which shall specify the following:
+ (1) the name of every shareholder and his/its domicile thereof;
+ (2) the amount of capital contribution made by every shareholder;
+ (3) the serial number of every capital contribution certificate. 
+The shareholders recorded in the register of shareholders may, in light of the register of shareholders, claim to and exercise the shareholder's rights. A company shall register every shareholder's name and the amount of its capital contribution in the company registration authority. Where any of the registration particulars is changed, it shall apply for modification registration. If the company fails to do so, it shall not, on the basis of the unregistered or un-modified registration particulars, stand up to any third party.
+ Article 34 The shareholder shall be entitled to consult and copy the articles of association, records of the shareholders' meetings, resolutions of the meetings of the board of directors, resolutions of the meetings of the board of supervisors, as well as financial reports. 
+The shareholders may request to consult the accounting books of the company. Where a shareholder requests to consult the accounting books of the company, it shall submit to the company a written request which shall state its motives. If the company, pursuant to any justifiable reason, considers that the shareholder's request to consult the accounting books for any improper purpose may damage the legitimate interests of the company, it may reject the request of the shareholder, and shall, within in 15 days after the shareholder submits a written request, give it a written reply which shall include an explanation. If the company rejects the request of any shareholder to consult the accounting books, the shareholder may plead the people's court to demand the company to approve consultation.
+ Article 35 The shareholders shall distribute dividends in light of the percentages of capital contributions actually made by them, unless all shareholders agree that the dividends are not distributed on the percentages of capital contributions. Where the company is to increase its capital, its shareholders have the preemptive right to contribute to the increased amount on the basis of the same percentages of the capital contributions they have already made, unless all shareholders agree that they will not contribute to the increased amount of capital on the basis of the percentages of the capital contributions they have already made.
+ Article 36 After the incorporation of a company, no shareholder may illegally take away the contribution capital. 
+ 
+Section 2 Organization Structure
+ Article 37 The shareholders' meeting of a limited liability company shall comprise all the shareholders. It shall be the authority of the company, and shall exercise its authorities according to this Law.
+ Article 38 The shareholders' meeting shall exercise the following authorities:
+ (1) determining the company's operation guidelines and investment plans;
+ (2) electing and changing the director and supervisors assumed by non-representatives of the employees, and determining the matters concerning their remuneration;
+ (3) deliberating and approving the reports of the board of directors;
+ (4) deliberating and approving the reports of the board of supervisors or the supervisor;
+ (5) deliberating and approving annual financial budget plans and final account plans of the company;
+ (6) deliberating and approving profit distribution plans and loss recovery plans of the company;
+ (7) making resolutions on the increase or decrease of the company's registered capital;
+ (8) making resolutions on the issuance of corporate bonds;
+ (9) adopting resolutions on the assignment, division, change of company form, dissolution, liquidation of the company;
+ (10) revising the articles of association of the company;
+ (11) other functions as specified in the articles of association. 
+Where any of the matters as listed in the preceding paragraph is consented by all the shareholders it in writing, it is not required to convene a shareholders' meeting. A decision may be made directly with the signatures or seals of all the shareholders.
+ Article 39 The shareholders' meeting shall be convened and presided over by the shareholder who has made the largest percentage of capital contributions and shall exercise its authorities according to this Law.
+ Article 40 The shareholders' meeting shall be classified into regular meetings and temporary meetings. The regular meetings shall be timely held in pursuance with the articles of association. Where a temporary meeting is proposed by the shareholders representing 1/10 of the voting rights or more, or by directors representing 1/3 of the voting rights or more, or by the board of supervisors, or by the supervisors of the company with no board of supervisors, a temporary meeting shall be held.
+ Article 41 Where a limited liability company has set up a board of directors, the shareholders' meeting shall be convened by the board of directors and presided over by the chairman of the board of directors. If the chairman is unable or does not perform his duties, the meetings thereof shall be presided over by the deputy chairman of the board of directors. If the deputy chairman of the board of directors is unable or does not perform his duties, the meetings shall be presided over by a director jointly recommended by half or more of the directors. Where a limited liability company has not set up the board of directors, the shareholders' meeting shall be convened and presided over by the executive director.
+If the board of directors or the executive director is unable or does not perform the duties of convening the shareholders' meeting, the board of supervisors or the supervisor of the company with no board of supervisors may convene and preside over such meetings. If the board of supervisors or supervisor does not convene or preside over such meetings, the shareholders representing 1 / 10 or more of the voting rights may convene and preside over such meetings on his/its own initiative.
+ Article 42 Every shareholder shall be notified 15 days before a shareholders' meeting is held, unless it is otherwise prescribed by the articles of association or it is otherwise contracted by all the shareholders. A shareholders' meeting shall make records for the decisions on the matters discussed at the meeting. The shareholders who attend the meeting shall affix their signatures to the records.
+ Article 43 The shareholders shall exercise their voting rights at the shareholders' meeting on the basis of their respective percentage of the capital contributions, unless it is otherwise prescribed by the articles of association.
+ Article 44 The discussion methods and voting procedures of the shareholders' meeting shall be prescribed in the articles of association, unless it is otherwise provided for by this Law. A resolution made at a shareholders' meeting on amending the articles of association, increasing or reducing the registered capital, merger, division, dissolution or change of the company type shall be adopted by the shareholders representing 2 / 3 or more of the voting rights.
+ Article 45 The board of directors established by a limited liability company shall comprise 3 up to 13 members, unless it is otherwise provided for in Article 51 of this Law. If a limited liability company established by 2 or more state-owned enterprises or other state-owned investors, the board of directors shall comprise the representatives of employees of this company. The board of directors of any other limited liability company may also comprise the representatives of employees of the company concerned. The employees' representatives who are to serve as the board of directors shall be democratically elected by the employees of the company through the assembly of the representatives of employees, the assembly of employees of the company or or by any other means. The board of directors shall have one board chairman and may have one or more deputy chairman. The appointment of the chairman and deputy chairman shall be prescribed in the articles of association.
+ Article 46 The terms of office of the directors shall be provided for in the articles of association, but each term of office shall not exceed 3 years. The directors may, after the expiry of their terms of office, hold a consecutive term upon re-election. If no reelection is timely carried out after the expiry of the term of office of the directors, or if the number of the members of the board of directors is less than the quorum due to the resignation of some directors from the board of directors prior to the expiry of their term of office, the original directors shall, before the newly elected directors assume their posts, exercise the authorities of the directors according to laws, administrative regulations as well as the articles of association.
+ Article 47 The board of directors shall be responsible for the shareholders' meeting and exercise the following authorities:
+ (1) convening shareholders' meeting and reporting on the status of work thereto;
+ (2) carrying out the resolutions made at the shareholders' meeting;
+ (3) determining the operation plans and investment plans;
+ (4) working out the company's annual financial budget plans and final account plans;
+ (5) working out the company's profit distribution plans and loss recovery plans;
+ (6) working out the company's plans on the increase or decrease of registered capital, as well as on the issuance of corporate bonds;
+ (7) working out the company's plans on merger, division, change of the company type, dissolution, and etc.;
+ (8) making decisions on the establishment of the company's internal management departments;
+ (9) making decisions on hiring or dismissing the company's manager and his remuneration, and, according to the nomination of the manager, deciding on the hiring or dismissing of vice manager(s) and the person in charge of finance as well as their remuneration;
+ (10) working out the company's basic management system; and
+ (11) other functions as prescribed in the articles of association.
+ Article 48 The meeting of the board of directors shall be convened and presided over by the chairman of the board of directors. If the chairman of the board of directors is unable or does not perform his duties, the meeting may be convened or presided over by the deputy chairman of the board of directors. If the deputy chairman of the board of directors is unable or does not perform his duties, the meeting may be convened or presided over by a director jointly recommended by half or more of the directors.
+ Article 49 The discussion methods and voting procedures of the board of directors shall be prescribed by the articles of association, unless it is otherwise provided for by this Law. The board of directors shall make records of the decisions on the matters discussed at the meetings thereof. The shareholders who attend the meeting shall affix their signatures to the records. 
+In the voting on a resolution of the board of directors, one person shall have one vote.
+ Article 50 A limited liability company may have a manager who shall be hired or dismissed upon the decision of the board of directors. The manager shall be responsible for the board of directors and shall exercise the following authorities:
+ (1) taking charge of the management of the production and business operations of the company, and organizing to implement the resolutions of the board of directors;
+ (2) organizing the execution of the company's annual operational plans and investment plans;
+ (3) drafting plans on the establishment of the company's internal management departments;
+ (4) drafting the company's basic management system;
+ (5) formulating the company's concrete bylaws;
+ (6) proposing to hire or dismiss the company's vice manager(s) and person(s) in charge of finance;
+ (7) deciding on the hiring or dismissing of the persons-in-charge other than those who shall be decided by the board of directors; and
+ (8) other authorities conferred by the board of directors.
+If the articles of association prescribe otherwise the authorities of managers, the provisions in the articles of association shall be followed. 
+The manager attends the meetings of the board of directors as a non-voting delegate.
+ Article 51 As for a limited liability company with relatively less shareholders or a relatively small limited liability company, it may have an executive director and no board of directors. The executive director may concurrently hold the post of the company's manger.
+The authorities of the executive director shall be prescribed in the articles of association.
+ Article 52 A limited liability company may set up a board of supervisors, which shall comprise at least 3 persons. A limited liability company, which has relatively less shareholders or is relatively small in scale, may have 1 or 2 supervisors, and does not have to establish a board of supervisors. The board of supervisors shall include representatives of shareholders and representatives of the employees of the company at an appropriate ratio which shall be specifically stimulated in the articles of association. The employees' representatives, who are to serve as members of the board of supervisors, shall be democratically elected by the employees of the company through the assembly of the employees' representatives or the assembly of employees, or by any other means. The board of supervisors shall have one chairman, who shall be elected by half or more of all the supervisors. The chairman of the board of supervisors shall convene and preside over the meetings of the board of supervisors. If the chairman of the board of supervisors is unable to or does not perform his duties, the supervisor recommended by half or more of the supervisors shall convene and preside over the meetings of the board of supervisors.
+No director or senior manager may concurrently work as a supervisor.
+ Article 53 Every term of office of the supervisors shall be 3 years. The supervisors may, after the expiry of their term of office, hold a consecutive term upon re-election. If no reelection is timely carried out after the expiry of the term of office of the supervisors, or the number of the members of the board of directors is less than the quorum due to the resignation of some directors from the board of supervisors prior to the expiry of their term of office, the original supervisors shall, before the newly elected supervisors assume their posts, exercise the authorities of the supervisors according to laws, administrative regulations as well as the articles of association.
+ Article 54 The board of supervisors or supervisor of a company with no board of supervisors may exercise the following authorities:
+ (1) checking the financial affairs of the company;
+ (2) supervising the duty-related acts of the directors and senior managers, and bringing forward proposals on the removal of any director or senior manager who violates any law, administrative regulation, the articles of association or any resolution of the shareholders' meeting;
+ (3) demanding any director or senior manager to make rectifications if his act has injured the interests of the company;
+ (4) proposing to convening temporary shareholders' meeting, and convening and presiding over shareholders' meeting when the board of directors does not exercise the functions of convening and presiding over the shareholders' meeting as prescribed in this Law;
+ (5) bringing forward proposals at shareholders' meeting;
+ (6) initiating actions against directors or senior managers according to Article 152 of this Law; and
+ (7) other duties as prescribed by the articles of association.
+ Article 55 The supervisors may attend the meetings of the board of directors as non-voting delegates, and may raise questions or suggestions on the matters to be decided by the board of directors.
+If the board of supervisors or supervisor of the company with no board of directors finds that the company is running abnormally, it (he) may make investigations. Where necessary, it (he) may hire an accounting firm to help it (him) with the relevant expenses being born by the company.
+ Article 56 The board of supervisors shall hold meetings at least once a year. The supervisors may propose to hold temporary meetings of the board of supervisors.
+The discussion methods and voting procedures of the board of supervisors shall be prescribed in the articles of association, unless it is otherwise stimulated in this Law.
+The resolution of the board of supervisors shall be adopted by half or more of the supervisors. The board of supervisors shall make records for the resolutions on the matter it discusses, which shall be signed by the supervisors in presence.
+ Article 57 The expenses necessary for the board of supervisors or the supervisor of a company with no board of supervisors to perform its (his) duties shall be borne by the company. 
+ 
+Section 3 Special Provisions on One-person Limited Liability Companies
+ Article 58 The provisions of this Section shall apply to the incorporation and organization structure of a one-person limited liability. As for any matter not prescribed in this Section, it shall be subject to the provisions of Sections 1 and 2 of this Chapter.
+The term "one-person limited liability company" as mentioned in this Law refers to a limited liability company with only one natural person shareholder or a legal person shareholder.
+ Article 59 The minimum amount of registered capital of a one-person limited liability company shall be RMB 100, 000 Yuan. The shareholder shall, in a lump sum, pay the capital contribution as specified in the articles of association.
+One natural person is allowed to establish merely one one-person limited liability company which shall not set up any further one-person limited liability company.
+ Article 60 A one-person limited liability company shall, in the company registration, give a clear indication that it is solely-funded by one natural person or one legal person, and the same shall be specified in the business license of the company.
+ Article 61 The articles of association of a one-person limited liability company shall be formulated by the shareholder.
+ Article 62 A one-person limited liability company may not set up the shareholder’s assembly. When the shareholder make a decision on any of the matters as listed in Article 38 of this Law, it shall make it in written form, and preserve it in the company after signed by the shareholders.
+ Article 63 A one-person limited liability company shall make a financial statement at the end of every fiscal year, which shall be subject to the audit by an accounting firm.
+ Article 64 If the shareholder of a one-person limited liability company is unable to prove that the property of the one-person limited liability company is independent from his own property, he shall bear joint liabilities for the debts of the company. 
+ 
+Section 4 Special Provisions on Wholly state-owned Companies
+ Article 65 The provisions of this Chapter shall apply to the incorporation and organization of the wholly state-owned companies. Any matter not prescribed by this Chapter shall be subject to the provisions of Sections 1 and 2 of this Chapter.
+The term "wholly state-owned company" as mentioned in this Law refers to a limited liability company incorporated wholly through investment by the state, for which the State Council or the local people's government authorizes the state-owned assets supervision and administration authority of the people's government at the same level to perform the functions of the capital contributors.
+ Article 66 The articles of association of a wholly state-owned company shall be formulated by the state-owned assets supervision and administration authority, or shall be drafted by the board of directors and then be reported to the state-owned assets supervision and administration authority for approval.
+ Article 67 A wholly state-owned company shall not set up the  shareholders’s assembly , whose functions shall be exercised by the state-owned assets supervision and administration authority. The state-owned assets supervision and administration authority may authorize the board of directors of the company to exercise some of the functions of the shareholders' meeting and decide on important matters of the company, excluding those that must be decided by the state-owned assets supervision and administration authority such as merger, division, dissolution of the company, increase or decrease of registered capital as well as the issuance of corporate bonds. The merger, division, dissolution or application for bankruptcy of an important wholly state-owned company shall be subject to the examination of the state-owned assets supervision and administration authority, and then be reported to the people's government at the same level for approval. 
+The term "important wholly state-owned company" as mentioned in the preceding paragraph shall be determined according to the provisions of the State Council.
+ Article 68 A wholly state-owned company shall establish the board of directors, which shall exercise its functions according to Articles 47 and 67 of this Law. Every term of office of the directors shall not exceed 3 years. The board of directors shall comprise representatives of the employees. And the members of the board of directors shall be designated by the state-owned assets supervision and administration authority, but of whom the representatives of the employees shall be elected through the assembly of the representatives of the employees of the company. The board of directors shall have one chairman and may have a deputy chairman. The chairman and deputy chairman shall be designated by the state-owned assets supervision and administration authority from the members of the board of directors.
+ Article 69 A wholly state-owned company shall have a manager, who shall be hired or dismissed by the board of directors and exercise his authorities according to Article 50 of this Law. Upon consent of the state-owned assets supervision and administration authority, the members of the board of directors may concurrently hold the post of manager.
+ Article 70 None of the chairman, deputy chairman, directors and senior managers of a wholly state-owned company may concurrently hold a post in any other limited liability company, joint stock limited company or any other economic organization, unless it is permitted by the state-owned assets supervision and administration authority.
+ Article 71 The board of supervisors of a wholly state-owned company shall comprise at least 5 persons, of whom the employees' representatives shall account for not less than 1/3, and the concrete percentage shall be specified in the articles of association.
+The members of the board of supervisors shall be appointed by the state-owned assets supervision and administration authority, however, of whom the employees' representatives shall be elected through the assembly of representatives of the employees of the company. The chairman of the board of supervisors shall be appointed by the state-owned assets supervision and administration authority from the members of the board of supervisors. The board of supervisions shall exercise the functions as mentioned in Article 54 (1) through (3) of this Law and those prescribed by the State Council.
+ 
+ 
+Chapter III Transfer of Stock Rights of a Limited Liability Company
+ Article 72 All or some of the stock rights of the shareholders of a limited liability company may be transferred between the shareholders.
+Where a shareholder intends to transfer his/its stock rights to any non-shareholder, he/it shall be subject to the approval of more than half of the other shareholders. The shareholder shall notify the other shareholders in written form of the matters on the transfer of stock rights for their approval. If any of the other shareholders fails to give it a reply within 30 days after the receipt of the written notice, it shall be deemed to have agreed to the transfer. If half or more of the other shareholders disagree to the transfer, the shareholders who disagree to the transfer shall purchase the stock rights to be transferred. If they refuse to purchase these stock rights, they shall be deemed to have agreed to the transfer. Under the same conditions, the other shareholders have a preemptive right to purchase the stock rights to be transferred upon their approval. If two or more shareholders claim the preemptive rights, they shall determine their respective percentage of purchase through negotiation. If they fail to reach an agreement during the negotiation, they shall exercise the preemptive rights on the basis of their respective percentage of capital contributions. Unless it is otherwise provided for of the transfer of stock rights in the articles of association, the articles of association shall be followed.
+ Article 73 When the people's court transfers the stock rights of a shareholder in light of the mandatory enforcement procedures as provided for in laws, it shall notify the company and all the shareholders, and the other shareholders have a preemptive right under the same conditions. If any of the other shareholders fails to exercise their preemptive rights within 20 days after he/it receives the notice of the court, it shall be deemed to have waived his/its preemptive right.
+ Article 74 After a company transfers its stock rights according to Articles 72 and 73 of this Law, it shall cancel the capital contribution certificate of the former shareholder, issue a capital contribution certificate to the new shareholder and modify the record on the shareholders and their capital contributions in the articles of association and the register of shareholders. And no voting of the shareholders' meeting is needed for the modification of the articles of association.
+ Article 75 Under any of the following circumstances, a shareholder, who votes against the resolution of the shareholders' meeting, may request the company to purchase its stock rights at a reasonable price:
+ (1) The company has not distributed any profit to the shareholders for 5 consecutive years, though it has made profits for five consecutive years and meets the profit distribution conditions as prescribed in this Law;
+ (2) The merger, division, or transfer of the main properties of the company is undertaken;
+ (3) When the business term as prescribed in the articles of association expires or other reasons for dissolution as stipulated in the articles of association occur, the shareholders' meeting makes the company continue existing by adopting a resolution on modifying the articles of association.
+Within 60 days after the resolution is adopted at the shareholders' meeting, if the shareholder and the company fail to reach an agreement on the purchase of stock rights, the shareholder may file a lawsuit to the people's court within 90 days after the resolution is adopted at the shareholders' meeting.
+ Article 76 After the death of a natural person shareholder, his lawful inheritor may inherit the shareholder's qualifications, unless it is otherwise prescribed by the articles of association.
+ 
+ 
+Chapter IV Incorporation and Organization of a Joint Stock Limited Company
+Section 1 Incorporation
+ Article 77 The incorporation of a joint stock limited company shall meet the following conditions:
+(1)The number of initiators meets the quorum;
+ (2) The capital share subscribed for and raised by the initiators reaches the minimum amount of the statutory capital;
+ (3) The issuance of shares and the preparatory work accord with the provisions of the law;
+ (4) The articles of association are formulated by the initiators, and are adopted at the inaugural assembly if the company is to be launched by means of share offer;
+ (5) The company has a name, and its organization accords with that of a joint stock limited company
+ (6) The company has a domicile.
+ Article 78 A joint stock limited company may be established by means of promotion or share offer. The incorporation of a company by promotion means that the initiators establish a company by subscribing for all of the shares that should be issued by the company. The incorporation of a company by share offer means that the initiators establish a company by subscribing for some of the shares that should be issued by the company and offering the remaining shares to the general public or to particular objects for subscription.
+ Article 79 To establish a joint stock limited company, there shall be not less than 2 but not more than 200 initiators, of whom half or more shall have a domicile within the territory of China.
+ Article 80 The initiators of a joint stock limited company shall undertake the preparatory work of the company. They shall conclude an agreement of initiators to clarify their respective rights and obligations during the course of establishing the company.
+ Article 81 Where a joint stock limited company is established by promotion, its registered capital shall be the total capital stocks subscribed for by all the initiators as registered in the company registration authority. The minimum amount of initial capital contributions to be made by all initiators shall be not less than 20% of the total registered capital, and the remaining amount shall be paid off by the initiators within 2 years as of the day when the company is established, while for an investment company, the remaining amount may be paid off within 5 years. Before the registered capital is paid off, no share may be offered to others for subscription.
+Where a joint stock limited company is established by share offer, its registered capital shall be the total actually paid-up capital as registered in the company registration authority. The minimum amount of the registered capital of a joint stock limited company shall be RMB 5 million Yuan. If any law or administrative regulation prescribes a relatively higher minimum amount of registered capital, such provision shall be followed.
+ Article 82 The articles of association of a joint stock limited company shall specify the following matters:
+ (1) the name and domicile of the company;
+ (2) the scope of business of the company;
+ (3) the form of company incorporation;
+ (4) total shares, value of each share, and the amount of registered capital of the company;
+ (5) the name of every initiator, the shares it has subscribed for, as well as the form and date of capital contributions;
+ (6) the composition, authorities, term of office, and rules of procedure of the board of directors,
+ (7) the legal representative of the company;
+ (8) the composition, authorities, term of office, and rules of procedure of the board of supervisors;
+ (9) the methods for profit distribution of the company;
+ (10) the reasons for dissolution of the company and liquidation methods;
+ (11) the methods for issuing notices or public announcements of the company; and
+ (12) other matters deemed necessary by the assembly of shareholders.
+ Article 83 The form of capital contributions of initiators shall be subject to the provisions in Article 27 of this Law.
+ Article 84 When establishing a joint stock limited company by promotion, the initiators shall subscribe, in writing, for the full amount of shares prescribed in the articles of association. In the case of paying the capital contributions at one time, the initiators shall make the payment in a lump sum; in the case of paying the capital contributions by installments, the initiators shall make the initial payment immediately. In the case of making capital contributions in non-currency properties, the initiators shall go through the procedures for the transfer of property rights according to law. 
+If any of the initiators fails to make capital contributions by following the provisions of the preceding paragraph, it shall bear the liabilities for breach of contract according to the stipulations in the initiators agreement. After the initiators have made their down payment, they should elect the board of directors and the board of supervisors. The board of directors shall file a registration application with the company registration authority and submit thereto the articles of association, the capital verification report as issued by a lawfully established capital verification institution, as well as other documents as stimulated by the laws and administrative regulations.
+ Article 85 For a joint stock limited company established by share offer, the shares subscribed for by the initiators shall not be less than 35 % of the total shares. However, if it is otherwise provided for by any law or administrative regulation, such law or administrative regulation shall prevail.
+ Article 86 When raising shares in the public, the initiators shall publish a prospectus and prepare share subscription forms. The share subscription form shall involve the items listed in Article 87, and a subscriber shall fill in the number and amount of shares he subscribes for and his domicile, and shall affix his signature or seal thereto. The subscriber shall pay the shares pursuant to the number of shares he has subscribed for.
+ Article 87 The prospectus shall be accompanied by the articles of association formulated by the initiators and shall state the following:
+ (1) the number of shares subscribed for by the initiators;
+ (2) the value and issuing price of each share;
+ (3) the total number of unregistered shares issued;
+ (4) the purposes of the funds raised;
+ (5) the rights and obligations of the subscribers; and
+ (6) the beginning and ending dates for the public offer and a statement that the subscribers may revoke their subscriptions if the offer is under-subscribed at the close of the offer.
+ Article 88 The public offer shares shall be underwritten by a lawfully established securities company, and an underwriting agreement shall be concluded.
+ Article 89 As for the public offer shares, the initiators shall sign an agreement with the receiving bank.
+The receiving bank shall receive and hold, as an agent, the payments for shares in light of the agreement, issue receipts to subscribers who have made the payments and be obliged to issue evidence of receipt of payments to the relevant departments.
+ Article 90 After the full payment for the public offer shares, they shall be verified by a legally established capital verification institution, and a certification shall be issued thereby. The initiators shall hold a company inaugural assembly within 30 days, which shall comprise the subscribers. If the public offer shares are not fully subscribed for at the expiration of the time limit prescribed in the prospectus, or the initiators fail to hold an inaugural assembly within 30 days after the full payment for the public offer shares, the subscribers may demand the initiators to make repayments for the public offer shares plus an interest calculated at the bank deposit interest rate for the same period.
+ Article 91 The initiators shall notify every subscriber of the date of the inaugural assembly or make a public announcement on the meeting 15 days in advance. The inaugural assembly may not be held, unless subscribers representing at least half of the shares appear. The inaugural assembly shall exercise the following authorities:
+ (1) deliberating the report on the activities prepared by the sponsors prior to the incorporation;
+ (2) adopting the articles of association;
+ (3) electing members of the board of directors;
+ (4) electing members of the board of supervisors;
+ (5) checking the expenses incurred for the incorporation of the company;
+ (6) checking the value of the assets contributed by the initiators in lieu of pecuniary payment for the shares;
+ (7) Where any force majeure or major change of the operation conditions directly affect the incorporation of the company, the resolution not to establish the company may be adopted. A resolution adopted at the inaugural assembly on any of the matters as mentioned in the previous paragraph requires affirmative votes by subscribers representing more than half of the votes of those attending the assembly.
+ Article 92 The initiators and subscribers shall not withdraw their share capital after making payments for the shares they have subscribed for or after making capital contributions by using non-currency properties, unless the public offer shares have not been fully subscribed within the time limit, the initiators fail to convene the inaugural assembly within the time limit or the inaugural assembly has decided not to set up the company.
+ Article 93 The board of directors shall, within 30 days after the inaugural assembly ends, file an application for registration with the company registration authority and submit the following documents to it:
+ (1) a company registration application;
+ (2) the records of the inaugural assembly;
+ (3) the articles of association;
+ (4) a capital verification report;
+ (5) the appointment documents and identification certificate of the legal representative, directors and supervisors;
+ (6) the qualification certificates for the legal person status or identification certificates for the natural person status of the initiators; and
+ (7) the documents on the right use of the domicile of the company. 
+As for a joint stock limited company established by share offer that makes public share offers, in additions to the aforementioned documents, it shall submit to the company registration authority the approval document issued by the securities regulatory institution of the State Council.
+ Article 94 After the incorporation of a joint stock limited company, if any of the initiators fails to make full payment for the capital contributions as provided for in the articles of association, it shall make up the arrears, and the other initiators shall bear joint liabilities. After the incorporation of a joint stock limited company, if it is found that the actual value of the non-currency properties used as capital contributions for the incorporation of the company is obviously lower than that as prescribed in the articles of association, the initiator who has made the capital contribution shall make up the balance, and the other initiators shall bear joint liabilities.
+ Article 95 The initiators of a joint stock limited company shall bear the following responsibilities:
+ (1) In the case of failure to establish the company, bearing joint liabilities for the debts and expenses resulted from the activities prior to the incorporation of the company;
+ (2) In the case of failure to establish the company, bearing joint liabilities for refunding the paid-up capital as well as the interests thereof computed at the bank interest rate for the same period; and
+ (3) If the company's interest is injured in the course of its incorporation due to the negligence of the initiators, being liable for making compensations to the company.
+ Article 96 Where a limited liability company is changed into a joint stock limited company, the total amount of the paid-up capital shall be not less than the total amount of the net assets. Where a limited liability company is changed into a joint stock limited company, the public offer shares issued for the purpose of increasing the capital shall comply with laws.
+ Article 97 A joint stock limited company shall prepare and keep in the company the articles of association, register of the shareholders, counterfoil of corporate bonds, records of the shareholders' assemblies, records of the meetings of the board of directors, records of the meetings of the board of supervisors, and financial reports.
+ Article 98 The shareholders shall be entitled to refer to the articles of association, register of the shareholders, counterfoil of corporate bonds, records of the shareholders' assemblies, records of the meetings of the board of directors, records of the meetings of the board of supervisors and financial reports, and may bring forward proposals or raise questions about the business operation of the company. 
+ 
+Section 2 Shareholders' Assembly
+ Article 99 The shareholders' assembly of a joint stock limited company shall comprise all the shareholders. It is the company's organ of power, which shall exercise its authorities according to this Law.
+ Article 100 The provisions regarding the authorities of the shareholders' meeting of a limited liability company as prescribed in the first paragraph of Article 38 of this Law shall apply to the shareholders'assembly of a joint stock limited company.
+ Article 101 An annual session of the shareholders'assembly shall be held each year. Under any of the following circumstances, a temporary shareholders' assembly shall be held within 2 months:
+ (1) The number of directors is less than two-thirds of the number of directors as required by this Law or the number of directors as prescribed in the articles of association;
+ (2) The un-recovered losses of the company reach one-third of the total pain-up capital;
+ (3) At the request of the shareholders separately or aggregately holding 10% or more of the company's shares;
+ (4) The board of directors deems it necessary;
+ (5) At the request of the board of supervisors; and
+ (6) Other circumstances as prescribed in the articles of association.
+ Article 102 A session of the shareholders' assembly shall be convened by the board of directors and be presided over by the chairman of the board of directors. If the chairman is unable or fails to perform his duties, the assembly thereof shall be presided over by the deputy chairman of the board of directors. If the deputy chairman of the board of directors is unable or fails to perform his duties, the assembly shall be presided over by a director jointly recommended by half or more of the directors. 
+If the board of directors or the executive director is unable or fails to fulfill the obligation of convening the shareholders' assembly, the board of supervisors shall convene and preside over such assembly. If the board of supervisors does not convene or preside over such assembly, the shareholders separately or aggregately holding 1/10 or more of the shares may convene and preside over such assemblies on their own initiative.
+ Article 103 As for a shareholders' assembly  to be held, a notice shall be given to every shareholder 20 days in advance, which shall state the time and place of the assembly as well as the matters to be deliberated at the assembly. As for a temporary shareholders' assembly , a notice shall be given to every shareholder 15 days in advance. As for the issuance of unregistered shares, the time and place of the assembly as well as the matters to be deliberated at the assembly shall be announced 30 days in advance. 
+The shareholders separately or aggregately holding 3% or more of the shares of the company may put forward a written temporary proposal to the board of directors 10 days before a shareholders' assembly  is held. The board of directors may notify other shareholders within 2 days and submit the temporary proposal to the shareholders' assembly  for deliberation. The contents of a temporary proposal shall fall within the scope to be decided by the shareholders' assembly , and the temporary proposal shall have a clear topic for discussion and matters to be decided. The shareholders' assembly  shall not make any decision on any matter not listed in the notice as mentioned in the preceding two paragraphs. If the holders of unregistered shares attend the shareholders' assembly , they shall have their shares preserved in the company during the period from 5 days before the assembly is held to the day when the shareholders' assembly  is closed.
+ Article 104 When a shareholder attends the shareholders' assembly , he shall have one voting right for each share he holds. However, the company has no voting right for its own shares it holds. When any resolution is to be made by the  shareholders’assembly, it shall be adopted by shareholders representing more than half of the voting rights of the shareholders in presence. However, when the  shareholders’assembly makes a decision to modify the articles of association or to increase or reduce the registered capital, or a resolution about the merger, division, dissolution or change of the company form, the resolution shall be adopted by shareholders representing 2/3 or more of the voting rights of the shareholders in presence.
+ Article 105 For the important matters such as company transfer, being assignee of any important asset or providing guarantee for any other person, which shall be decided through the shareholders' assembly  under this Law and the articles of association, the board of directors shall timely call a shareholders' assembly  for voting.
+ Article 106 When the shareholders' assembly  elects directors or supervisors, it may, according to the articles of association or resolution of the shareholders' assembly , adopt a cumulative voting system.
+The term "cumulative voting system" as mentioned in this Law refers to a system of voting by shareholders for the election of directors or supervisors at a session of the shareholders' assembly  in which the shareholder can multiply his voting rights by the number of candidates and vote them all for one candidate for director or supervisor.
+ Article 107 A shareholder may entrust an agent to attend a shareholders' assembly . The agent shall present a power of attorney issued by the shareholder to the company, and shall exercise his voting rights within the authorization scope.
+ Article 108 The shareholders' assembly  shall prepare records regarding the decisions on the matters discussed by it. The chairman of the assembly and the directors in presence shall affix their signatures to the records, which shall be preserved together with the book of signatures of the shareholders in presence as well as the power of attorney thereof.
+ 
+Section 3 The Board of Directors and Manager
+ Article 109 A joint stock limited company shall set up a board of directors, which shall comprise 5-19 persons. 
+The board of directors may include representatives of the company's employees. The representatives of the employees who serve as board directors shall be democratically elected through the assembly of the representatives of the employees, the assembly of employees or otherwise.
+The provisions in Article 46 of this Law on the term of office of the directors of a limited liability company shall apply to that of the director of a joint stock limited company. The provisions in Article 47 of this Law on the functions of the board of directors of a limited liability company shall apply to that of the board of directors of a joint stock limited company.
+ Article 110 The board of directors shall have one chairman, and may have deputy chairmen. The chairman and deputy chairmen shall be elected by more than half of all the directors. The chairman of the board of directors shall convene and preside over the meetings of the board of directors and examine the implementation of the resolutions of the board of directors. The deputy chairmen shall assist the chairman to work. If the chairman is unable or fails to perform his duties, the deputy chairmen shall perform such duties. If the deputy chairmen of the board of directors is unable or fails to perform his duties, the director who is jointly recommended by half or more of the directors shall perform such duties.
+ Article 111 The board of directors shall convene at least two meetings every year, and shall notice all directors and supervisors 10 days before it holds a meeting. The shareholders representing 1/10 or more of the voting rights, or 1/3 of the directors, or the board of supervisors may bring forward a proposal on holding a temporary meeting of the board of directors. The chairman of the board of directors shall, within 10 days after he receives such a proposal, convene and preside over a meeting of the board of directors. If the board of directors holds a temporary meeting, it may separately decide the method and time limit for the notification on convening meetings of the board of directors.
+ Article 112 No meeting of the board of directors may be held, unless more than half of the directors are present. When the board of directors makes a resolution, it shall be adopted by more than half of all the directors.
+As for the voting on a resolution of the board of directors, a director shall have one vote only.
+ Article 113 The directors shall attend in person the meetings of the board of directors. Where any director is unable to attend the meeting for a certain reason, he may, by issuing a written power of attorney, entrust another director to attend the meeting on his behalf, and the scope of authorization shall be stated in the power of attorney. 
+The board of directors shall prepare records regarding the resolutions on the matters discussed at the meeting, which shall be signed by the directors in presence. The directors shall be responsible for the resolutions of the board of directors. In case a resolution of the board of directors is in violation of laws, administrative regulations, articles of association or resolutions of the shareholders' assemblies and causes any serious loss to the company, the directors who participate in adopting the resolution shall make compensation. However, if a director is proven to have expressed his objection to the voting on such resolution and his objection was recorded in the records, then the director may be exempted from liabilities.
+ Article 114 A joint stock limited company may have a manager, who shall be hired or dismissed by the board of directors.
+The provisions of Article 50 of this Law on the authorities of the manager of a limited liability company shall apply to that of the manager of a joint stock limited company.
+ Article 115 The board of directors of a company may decide to appoint a member of the board of directors to concurrently take the post of the manager.
+ Article 116 No company may, directly or via its subsidiary, lend money to any of its directors, supervisors or senior managers.
+ Article 117 A company shall regularly disclose to its shareholders the information about remunerations obtained by the directors, supervisors and senior managers from the company.
+ 
+Section 4 the Board of Supervisors
+ Article 118 A joint stock limited company shall set up a board of supervisors, which shall comprise at least 3 persons. 
+The board of supervisors shall include representatives of shareholders and an appropriate percentage of representatives of the company's employees. The percentage of the representatives of employees shall account for not less than 1/3 of all the supervisors, but the concrete percentage shall be specified in the articles of association. The representatives of employees who serve as members of the board of supervisors shall be democratically elected through the assembly of representatives of the company's employees, the assembly of employees or by other means. The board of supervisors shall have one chairman, and may have a deputy chairman. The chairman and deputy chairman shall elected by more than half of all the supervisors. The chairman of the board of supervisors shall convene and preside over the meetings of the board of supervisors. If the chairman of the board of supervisors is unable or fails to perform his duties, the deputy chairmen of the board of supervisors shall convene and preside over the meeting of the board of supervisors. If the deputy chairmen of the board of supervisors is unable or fails to perform the duties, the supervisor jointly recommended by half or more of the supervisors shall convene and preside over the meetings of the board of supervisors. No director or senior manager may concurrently act as a supervisor. 
+The provisions of Article 53 of this Law on the term of office of the supervisors of a limited liability company shall apply to that of the supervisors of a joint stock limited company.
+ Article 119 The provisions of Articles 54 and 55 of this Law on the functions of a limited liability company shall apply to that of the board of supervisors of a joint stock limited company. The expenses necessary for the board of supervisors to exercise its authorities shall be borne by the company.
+ Article 120 The board of supervisors shall hold at least one meeting every 6 months. The supervisors may propose to convene temporary meetings of the board of supervisors. The discussion methods and voting procedures of the board of supervisors shall be prescribed in the articles of association, unless it is otherwise provided for by this Law.
+The board of supervisors shall prepare records for the decisions on the matters discussed at the meeting, which shall be signed by the supervisors in presence.
+ 
+Section 5 Special Provisions on the Organization of a Listed Company
+ Article 121 The term "listed company" as mentioned in this Law refers to the joint stock limited companies whose shares are listed and traded in a share exchange.
+ Article 122 Where a listed company purchases or sells any important assets, or provides a guarantee of which the amount exceeds 30% of its total assets, a resolution shall be made by the shareholders' assembly  and adopted by shareholders representing 2/3 of the voting rights of the shareholders in presence.
+ Article 123 A listed company shall have independent directors. And the concrete measures shall be formulated by the State Council.
+ Article 124 A listed company may have a secretary of the board of directors, who shall be responsible for the preparation of the sessions of shareholders' assembly  and meetings of the board of directors, preservation of documents, management of the company's share rights, information disclosure, and etc.
+ Article 125 Where any of the directors has any relationship with the enterprise involved in the matter to be discussed at the meeting of the board of directors, he shall not vote on this resolution, nor may he vote on behalf of any other person. The meeting of the board of directors shall not be held unless more than half of the unrelated directors are present at the meeting. A resolution of the board of directors shall be adopted by more than half of the unrelated directors. If the number of unrelated directors in presence is less than 3 persons, the matter shall be submitted to the shareholders' assembly  of the listed company for deliberation.
+ 
+ 
+Chapter V Issuance and Transfer of Shares of a Joint Stock Limited Company
+Section 1 Issuance of Shares
+ Article 126 The capital of a joint stock limited company shall be divided into shares, and all the shares shall be of equal value.
+The shares of the company are represented with stocks. A share is a certificate issued by the company to certify the share held by a shareholder.
+ Article 127 The issuance of shares shall comply with the principle of fairness and impartiality, and the shares of the same class shall have the same rights and benefits. The shares issued at the same time shall be equal in price and shall be subject to the same conditions. The price of each share purchased by any organization or individual shall be the same.
+ Article 128 The shares may be issued at a price equal to or above the par value, but not below the par value.
+ Article 129 The shares shall be in paper form or in other forms prescribed by the securities regulatory institution of the State Council. A share shall state the following major items:
+ (1) the company name;
+ (2) the date of incorporation of the company;
+ (3) the class and par value of the share, as well as the number of shares it represents; and
+ (4) the serial number of the share.
+The share shall bear the signature of the legal representative and the seal of the company.
+The shares held by the initiators shall be marked with the words "initiators' shares".
+ Article 130 The shares issued by a company may be registered shares or unregistered shares. The stocks issued to initiators or legal persons shall be registered shares, which shall state the names of such initiators or legal persons, and shall not be registered in any other person's name or the name of any representative.
+ Article 131 A company that issues registered shares shall prepare a register of shareholders, which shall state the following:
+ (1) the name and domicile of every shareholder;
+ (2) the number of shares held by each shareholder;
+ (3) the serial numbers of the shares held by every shareholder; and
+ (4) the date on which every shareholder acquired his shares. 
+A company issuing unregistered shares shall record the amount, serial numbers and issuance date of the shares.
+Article 132 The measure for issuing other shares than stated in this law may be formulated by the State Council in addition.
+ Article 133 After a joint stock limited company is established, it shall formally deliver the shares to the shareholders. No company may deliver any share to the shareholders prior to its incorporation.
+ Article 134 Where a company intends to issue new shares, it shall make a resolution on the following matters through the shareholders' assembly :
+ (1) the class and amount of new shares;
+ (2) the issuing price of the new shares;
+ (3) the beginning and ending dates for the issuance of the new shares; and
+ (4) the class and amount of the new shares to be issued to the original shareholders.
+ Article 135 When a company publicly issues new shares upon approval of the securities regulatory institution of the State Council, it shall publish a new share prospectus and its financial reports, and shall make a share subscription form. The provisions of Articles 88 and 89 of this Law shall apply to the public offering of new shares of a company.
+ Article 136 When a company issues new shares, it may make a pricing plan in light of its business operation and financial status.
+ Article 137 After a company raises enough capital, it shall go through the modification registration with the company registration authority, and make an public announcement. 
+ 
+Section 2 Transfer of Shares
+ Article 138 The shares held by the shareholders may be transferred according to law.
+ Article 139 Where a shareholder intends to transfer its shares, it shall transfer its shares in a legally established share exchange or by any other means as prescribed by the State Council.
+ Article 140 The transfer of a registered share shall be effected by the shareholder's endorsement or by any other means stipulated by relevant laws or administrative regulations. After the transfer, the company shall record the name and domicile of the transferee in the register of shareholders. Within 20 days before a shareholders’ assembly is held, or within 5 days prior to the benchmark date decided by the company for the distribution of dividends, no modification registration may be made to the register of shareholders as mentioned in the preceding paragraph. However, if any law otherwise provides for the modification registration of the register of shareholders of listed companies, the latter shall prevail.
+ Article 141 The transfer of an unregistered share becomes valid as soon as the shareholder delivers the share to the transferee.
+ Article 142 The shares of a company held by the initiators of this company shall not be transferred within 1 year as of the day of incorporation of the company. The shares issued before the company publicly issues shares shall not be transferred within 1 year as of the day when the shares of the company get listed and are traded in a share exchange. The directors, supervisors and senior managers of the company shall declare to the company the shares held by them and the changes thereof. During the term of office, the shares transferred by any of them each year shall not exceed 25% of the total shares of the company he holds. The shares of the company held by the aforesaid persons shall not be transferred within 1 year as of the day when the shares of the company get listed and are traded in a share exchange. After any of the aforesaid persons is removed from his post, he shall not transfer the shares of the company he holds. The articles of association may have other restrictions on the transfer of shares held by the directors, supervisors and senior managers.
+ Article 143 A company shall not purchase its own shares, except for any of the following circumstances:
+ (1) to reduce the registered capital of the company;
+ (2) to merge with another company holding shares of this company;
+ (3) to award the employees of this company with shares; or
+ (4) It is requested by any shareholder to purchase his shares because this shareholder raises objections to the company's resolution on merger or division made at a session of the shareholders’assembly . Where a company needs to purchase its own shares for any of the reasons as mentioned in Items (1) through (3) of the preceding paragraph, it shall be subject to a resolution of the shareholders' assembly . After the company purchases its own shares according to the provisions of the preceding paragraph, it shall, under the circumstance as mentioned in Item (1) , write them off within 10 days after the purchase; while under the circumstance as mentioned either in Item (2) or (4) , shall transfer them or write them off within 6 months. 
+The shares purchased by the company according to Item (3) of the preceding paragraph shall not exceed 5% of the total shares already issued by this company. The funds used for the share acquisition shall be paid from the aftertax profits of the company. The shares purchased by the company shall be transferred to the employees within 1 year. No company may accept any subject matter taking the shares of this company as a pledge.
+ Article 144 In case any registered shares are stolen, lost or destroyed, the shareholder may request the people's court to declare these shares invalid in light of the public notice procedure prescribed in the Civil Procedural Law of the People's Republic of China. After the people's court has invalidated these shares, the shareholder may file an application to the company for issuance of new shares.
+ Article 145 The shares of a listed company shall get listed and traded according to relevant laws, administrative regulations, as well as the dealing rules of the share exchange.
+ Article 146 A listed company shall, in light of laws and administrative regulations, publicize its financial status, business operation and important lawsuits, and shall publish its financial reports once every six months in each fiscal year.
+ 
+ 
+Chapter VI Qualifications and Obligations of the Directors, Supervisors and Senior Managers of a Company
+ Article 147 Anyone who is under any of the following circumstances shall not take the post of a director, supervisor or senior manager of a company:
+ (1) Being without or with limited capacity of civil conduct;
+ (2) He has been sentenced to any criminal penalty due to an offence of corruption, bribery, encroachment of property, misappropriation of property or disrupting the economic order of the socialist market economy and 5 years have not passed since the completion date of the execution of the penalty; or he has ever been deprived of his political rights due to any crime and 3 years have not passed since the completion date of the execution of the penalty;
+ (3) Where he was a former director, factory director or manager of a company or enterprise which was bankrupt and liquidated, and was personally liable for the bankruptcy of such company or enterprise, three years have not passed since the date of completion of the bankruptcy and liquidation of the company or enterprise;
+ (4) Where he was the legal representative of a company or enterprise, and the business license of this company or enterprise was revoked and this company or enterprise was ordered to close due to violation of the law, and he is personally liable for the revocation, three years have not passed since the date of the revocation of the business license thereof;
+ (5) He has a relatively large amount of debt which is due but uncleared. 
+In case a company elects or appoints any director or supervisor, or hires any senior manager by violating the provisions in the preceding paragraph, the election, appointment or hiring shall be invalidated. In case any director, supervisor or senior manager, during his term of office, is under any of the circumstances as mentioned in the preceding paragraph, the company shall dismiss him from his post.
+ Article 148 The directors, supervisors and senior managers shall comply with laws, administrative regulations and the articles of association. They shall bear the obligations of fidelity and diligence to the company. No director, supervisor or senior manager may take any bribe or other illegal gains by taking the advantage of his authorities, or encroach on the properties of the company.
+ Article 149 No director or senior manager may have any of the following acts:
+ (1) Misappropriating funds of the company;
+ (2) Depositing the company's funds into an account in his own name or in any other individual's name;
+ (3) Without the consent of the shareholders' meeting, shareholders' assembly or board of directors, loaning the company's fund to others or providing any guaranty to any other person by using the company's property as in violation of the articles of association;
+ (4) Signing a contract or trading with this company by violating the articles of association or without the consent of the shareholders' meeting or shareholders' assembly;
+ (5) Without the consent of the shareholders’meeting or the shareholders' assembly, seeking business opportunities for himself or any other person by taking advantages of his authorities, or operating for himself or for any other person any like business of the company he works for;
+ (6) Taking commissions on the transactions between others and this company into his own pocket;
+ (7) Disclosing the company's secrets without permit;
+ (8) Other acts that are inconsistent with the obligation of fidelity to the company. The income of any director or senior manager from any act in violation of the preceding paragraph shall belong to the company.
+ Article 150 Where any director, supervisor or senior manager violates laws, administrative regulations or the articles of association during the course of performing his duties, if any loss is caused to the company, he shall make compensation.
+ Article 151 If the shareholder's meeting or shareholders' assembly  demands a director, supervisor or senior manager to attend the meeting as a non-voting delegate, he shall do so and shall answer the shareholders' inquiries.
+The directors and senior managers shall faithfully offer relevant information and materials to the board of supervisors or the supervisor of the limited liability company with no board of supervisors, and none of them may obstruct the board of supervisors or supervisor from exercising its (his) authorities.
+ Article 152 Where a director or senior manager is under the circumstance as stated in Article 150 of this Law, the shareholder(s) of the limited liability company or joint stock limited company separately or aggregately holding 1% or more of the total shares of the company may require the board of supervisors or the supervisor of the limited liability company with no board of supervisors in writing to file a lawsuit in the people's court. If the supervisor is under the circumstance as stated in Article 150 of this Law, the aforesaid shareholder(s) may require the board of directors or the executive director of the limited liability company with no board of directors to in writing to file a lawsuit in the people e's court. 
+If the board of supervisors, or supervisor of a limited liability company with no board of supervisors, or the board of directors or the executive director refuses to file a lawsuit after it (he) receives a written request as mentioned in the preceding paragraph, or if it or he fails to file a lawsuit within 30 days after it receives the request, or if, in an emergency, the failure to file a lawsuit immediately will cause unrecoverable damages to the interests of the company, the shareholder(s) as listed in the preceding paragraph may, on their own behalf, directly file a lawsuit in the people's court.
+In case the legitimate rights and interests of a company are impaired and losses are caused to the company, the shareholders as mentioned in the preceding paragraph may initiate a lawsuit in the people's court in light of the provisions of the preceding two paragraphs.
+ Article 153 If any director or senior manager damages the shareholders' interests by violating any law, administrative regulation or the articles of association, the shareholders may file a lawsuit in the people's court.
+ 
+ 
+Chapter VII Corporate Bonds
+ Article 154 The term "corporate bonds" as mentioned in this Law refers to the securities that are issued by a company according to the statutory procedures with guaranteed payment of the principal plus interest by a specified future date. To issue corporate bonds, a company shall meet the issuance requirements of the Securities Law of the People's Republic of China.
+ Article 155 After an application for issuing corporate bonds is approved by the department authorized by the State Council, the company shall publish its bond issuance plan, which shall mainly state the following items:
+ (1) the name of the company;
+ (2) the use of the corporate bonds;
+ (3) the total amount of corporate bonds and par value thereof;
+ (4) the method for determining the interest rate of the bonds;
+ (5) the time limit and method for paying the principal plus interest;
+ (6) guarantee of the bonds;
+ (7) the issuing price of the bonds, and beginning and ending dates of the issuance;
+ (8) the net assets of the company;
+ (9) the total amount of corporate bonds having been issued but not yet due; and
+ (10) the underwriters of the corporate bonds.
+ Article 156 The physical bonds issued by a company shall state the name of company, par value, interest rate, time limit for repayment, and etc., and shall bear the signature of the legal representative and the seal of the company.
+ Article 157 The corporate bonds may be registered or unregistered bonds.
+ Article 158  A company shall prepare and keep the counterfoils of corporate bonds. If the company issues registered corporate bonds, the counterfoils thereof shall state the following items:
+ (1) the names and domiciles of the bondholders;
+ (2) the dates on which the bondholders acquires the bonds and the serial numbers of the bonds;
+ (3) the total amount of the bonds, par value, interest rate, time limit and method for repayment of principal plus interest; and
+ (4) the date on which the bonds are issued.
+If the company issues unregistered corporate bonds, the counterfoils thereof shall state the total amount of the bonds, interest rate, time limit and method for repayment, issuance date and serial numbers of the bonds.
+ Article 159 The registration and settlement institutions of registered corporate bonds shall establish bylaws on the registration, preservation, interest payment and acceptance of bonds.
+ Article 160 The corporate bonds may be transferred. The transfer price shall be negotiated by the transferor and transferee. 
+The transfer of any corporate bonds, which gets listed and is traded in a share exchange, shall comply with the dealing rules of the share exchange.
+ Article 161 The transfer of registered corporate bonds shall be effected by the bondholder's endorsement or by other methods prescribed by the relevant laws and administrative regulations. In the case of transfer of registered bonds, the company shall record the name and domicile of the transferee in the counterfoil of corporate bonds. The transfer of unregistered corporate bonds takes effect as soon as the bondholder delivers the bonds to the transferee.
+ Article 162 A listed company may, upon the resolution of the shareholders' assembly , issue corporate bonds that may be converted into shares and shall work out concrete conversion measures in the corporate bond issuance plan. To issue corporate bonds that may be converted into shares, the listed company shall file an application with the securities regulatory institution of State Council for examination and approval. 
+The corporate bonds that may be converted into shares shall be marked with the words "convertible corporate bonds", and the number of convertible company bonds shall be specified in the company's records of bondholders.
+ Article 163 Where any convertible company bonds is issued, the company shall exchange its shares for the bonds held by the bondholders in the prescribed method of conversion, provided that the bondholders have the option on whether or not to convert their bonds.
+ 
+ 
+Chapter VIII Financial Affairs and Accounting of a Company
+ Article 164 A company shall establish its own financial and accounting bylaws according to laws, administrative regulations and provisions of the treasury department of the State Council.
+ Article 165 A company shall, after the end of each fiscal year, formulate a financial report, and shall have it audited by an accounting firm. The financial report shall be work out according to laws, administrative regulations and provisions of the treasury department of the State Council.
+ Article 166 A limited liability company shall submit the financial report to every shareholder within the time limit as prescribed in the articles of association. The financial report of a joint stock limited company shall be ready for the consultation of the shareholders at the company 20 days before the annual meeting of the shareholders is held. A public offering joint stock limited company shall make a public announcement of its financial report.
+ Article 167 Where a company distributes its aftertax profits of the current year, it shall draw 10 percent of the profits as the company's legal reserved funds. The company may stop drawing if the accumulative balance of the legal reserved funds has already accounted for over 50 percent of the company's registered capital. 
+If the accumulative balance of the company's legal reserved funds is not enough to make up for the losses of the company of the previous year, the current year's profits shall first be used for making up the losses before the legal reserved funds is drawn therefrom according to the provisions of the preceding paragraph. 
+After the company draws the legal reserved funds from the aftertax profits, it may, upon a resolution made by the shareholders' meeting or the shareholders’assembly , draw a discretionary reserved funds from the aftertax profits. 
+After the losses have been made up and legal reserved funds have been drawn, a limited liability company shall distribute the remaining profits according to Article 35 of this Law; a joint stock limited company shall distribute the remaining profits in light of the proportions of shares held by shareholders, unless it is not permitted in the articles of association to distribute profits according to the proportions of shares held by shareholders.
+If the shareholders' meeting, shareholders' assembly or board of directors distributes the profits by violating the provisions of the preceding paragraph before the losses are made up and the legal reserved funds are drawn, the profits distributed must be refunded to the company. 
+No profit may be distributed for the company's shares held by this company.
+ Article 168 The premium of a joint stock limited company from the issuance of shares at a price above the par value of the shares, and other incomes listed in the capital accumulation fund according to provisions of the treasury department of the State Council shall be listed as the capital reserved funds of the company.
+ Article 169 The reserved funds of the company shall be used for making up losses, expanding the production and business scale or increasing the registered capital of the company. But the capital reserved funds shall not be used for making up the company's losses. 
+When the legal reserved funds are changed to capital, the remainder of the reserved funds shall not be less than 25 % of the registered capital prior to the increase.
+ Article 170 Where a company plans to hire or dismiss any accounting firm to undertake the auditing of the company, a resolution shall be made by the shareholders' meeting or shareholders' assembly or the board of directors according to the provisions of the articles of association. Where the shareholders' meeting or shareholders' assembly or the board of directors adopts a voting on the dismissal of any accounting firm, it shall allow the accounting firm to state its own opinions.
+ Article 171 A company shall provide to the accounting firm it hires truthful and complete accounting vouchers, account books, financial and accounting statements and other accounting materials, and may not refuse to do so or conceal any of them or make any false statements.
+ Article 172 Except for the statutory account books, a company shall not set up other account books.
+No company asset may be deposited into any individual's account.
+ 
+ 
+Chapter IX Merger and Division of Company, Increase and Reduction of Registered Capital
+ Article 173 The merger of a company may be achieved by way of absorption or consolidation. In the case of absorption, a company absorbs any other company and the absorbed company is dissolved; in the case of consolidation, two or more companies combine together for the incorporation of a new one, and the existing ones are dissolved.
+ Article 174 As for a corporate merger, both parties to the merger shall conclude an agreement with each other and formulate balance sheets and checklists of properties. The companies involved shall, within ten days as of making the decision of merger, notify the creditors, and shall make a public announcement on a newspaper within 30 days. The creditors may, within 30 days as of the receipt of the notice or within 45 days as of the issuance of the public announcement if it fails to receive a notice, require the company to clear off its debts or to provide corresponding guarantees.
+ Article 175 In the case of a merger, the credits and debts of the companies involved shall be succeeded by the company that survives the merger or by the newly established company.
+ Article 176 As for the division of a company, the properties thereof shall be divided accordingly, and balance sheets and checklists of properties shall be worked out. The company shall, within 10 days as of the day when the decision of division is made, notice the creditors and shall make a public announcement on a newspaper within 30 days.
+ Article 177 The post-division companies shall bear joint liabilities for the debts of the former company before it is divided, unless it is otherwise prescribed by the company and the creditors before the division with regard to the clearance of debts in written agreement.
+ Article 178 Where a company finds it necessary to reduce its registered capital, it must work out balance sheets and checklists of properties.
+The company shall, within ten days as of the day when the decision of reducing registered capital, notify the creditors and make a public announcement on a newspaper within 30 days. The creditors shall, within 30 days as of the receipt of a notice or within 45 days as of the issuance of the public announcement if it fails to receive a notice, be entitled to require the company to clear off its debts or to provide corresponding guarantees. The registered capital of the company after reducing its registered capital shall not be any lower than the minimum amount prescribed for by law.
+ Article 179 Where a limited liability company increases its registered capital, the capital contributions of the shareholders for the increased amount shall be subject to the relevant provisions of this Law regarding the capital contributions for the incorporation of a limited liability company. Where a joint stock limited company issues new shares for increasing its registered capital, the subscription for new shares by shareholders shall be subject to the relevant provisions of this Law regarding the payment of share money for the incorporation of a joint stock limited company.
+ Article 180 Where any of the registered items is changed during the process of merger or division of a company, the company shall go through modification registration with the company registration authority. If it is dissolved, it shall be deregistered according to law. If any new company is established, it shall go through the procedures for company incorporation according to law.
+In the case of increasing or reducing its registered capital, a company shall go through the modification registration with the company registration authority according to laws.
+ 
+ 
+Chapter X Dissolution and Liquidation of a Company
+ Article 181 A company may be dissolved under any of the following circumstances:
+ (1) The duration of business operation as stipulated by the articles of association expires or any of the matters for dissolution as stipulated in the articles of association of the company appears;
+ (2) The shareholders' meeting or the shareholders' assembly decides to dissolve it;
+ (3) It is necessary to be dissolved due to merger or division of the company;
+ (4) Its business license is revoked or it is ordered to close down or to be canceled according to law; or
+ (5) The people's court decides to dissolve it according to Article 183 of this Law.
+ Article 182 Where any of the circumstances as prescribed in Article 181 (1) of this Law occurs, a company may continue to exist by modifying its articles of association. To modifying its articles of association according to the provisions of the preceding paragraph, the consent of the shareholders who hold two thirds or more of the voting rights shall be obtained if it is a limited liability company, and the consent of two thirds or more of the voting rights the shareholders who attend the meeting of the shareholders shall be obtained if it is a joint stock limited company.
+ Article 183 Where a company meets any serious difficulty during its operation or management so that the interests of the shareholders will be subject to heavy loss if it continues to exist and it cannot be solved by any other means, the shareholders who hold ten percent or more of the voting rights of all the shareholders of the company may plead the people's court to dissolve the company.
+ Article 184 Where any company is dissolved according to the provisions of Article 181 (1) , (2) , (4) or (5) of this Law, a liquidation group shall be formed, within fifteen days as of the occurrence of the causes of dissolution, to carry out a liquidation. The liquidation group of a limited liability company shall comprise the shareholders, while that of a joint stock limited company shall comprise the directors or any other people as determined by the shareholders' assembly. Where no liquidation group is formed within the time limit, the creditors may plead the people's court to designate relevant persons to form a liquidation group. The people's court shall accept such request and form a liquidation group so as to carry out the liquidation in a timely manner.
+ Article 185 The liquidation group may exercise the following functions during the process of liquidation:
+ (1) liquidating the properties of the company, and producing balance sheets and asset checklists;
+ (2) informing creditors by notice or public announcement;
+ (3) disposing and liquidating the businesses of the company that have not been completed;
+ (4) clearing off the outstanding taxes and the taxes incurred in the process of liquidation;
+ (5) clearing off credits and debts;
+ (6) disposing the residual properties; and
+ (7) participating in the civil proceedings of the company.
+ Article 186 The liquidation group shall, within ten days as of its formation, notify the creditors, and shall make a public announcement within 60 days on newspapers. Creditors shall, within thirty days as of the receipt of a notice or within 45 days as of the issuance of the public announcement in the case of failing to receiving a notice, declare credits against the liquidation group.
+To declare credits, a creditor shall explain the relevant matters and provide relevant evidential materials. The liquidation group shall check in the credits, and may not clear off any of the debts of any creditor during the period of credit declaration.
+ Article 187 The liquidation group shall, after liquidating the properties of the company and producing balance sheets and checklists of properties, make a plan of liquidation, and report it to the shareholders' meeting or the shareholders' assembly or the people's court for confirmation.
+The residual assets that result from paying off the liquidation expenses, wages of employees, social insurance premiums and legal compensation premiums, the outstanding taxes and the debts of the company with the assets of the company may, in the case of a limited liability company, be distributed according to the proportions of capital contributions of the shareholders, and in the case of a joint stock limited company, according to the proportions of shares held by the shareholders. During the term of liquidation, the company continues to exist, but may not carry out any business operation that has nothing to do with liquidation. None of the properties of the company may be distributed to any shareholder before they are used for the clearing off as stated in the preceding paragraph.
+ Article 188 If the liquidation group finds that the properties of the company is not sufficient for clearing off the debts after liquidating the properties of the company and producing balance sheets and checklists of properties, it shall file an application to the people's court for bankruptcy. Once the people's court makes a judge declaring the bankruptcy of the company, the liquidation group shall hand over the liquidation matters to the people's court.
+ Article 189 After liquidation of the company is completed, the liquidation group shall formulate a liquidation report, which shall be submitted to the shareholders' meeting or the shareholders' assembly or the people's court for confirmation and shall be submitted to the company registration authority for deregistration. It shall also make a public announcement on its termination.
+ Article 190 The members of the liquidation group shall devote themselves to their duties and fulfill their obligations of liquidation according to law.
+None of the members of the liquidation group may take any bribe or any other illegal proceeds by taking advantage of his position, nor may he misappropriate any of the properties of the company. Where any of the members of the liquidation group causes any loss to the company or any creditor by intention or due to severe negligence, he shall make corresponding compensations.
+ Article 191 Where a company is declared bankrupt according to law, it shall carry out bankruptcy liquidation in accordance with the provisions concerning bankruptcy liquidation.
+ 
+ 
+Chapter XI Branches of Foreign Companies
+ Article 192 The term "foreign company" as mentioned in this Law refers to a company established outside of the territory of China according to any foreign law.
+ Article 193 A foreign company, which plans to establish any branch within the territory of China, shall submit an application with the competent authority of China, and shall submit relevant documents such as the articles of incorporation, the company registration certificate as issued by the country of incorporation and etc.. Upon the approval, it shall go through registration with the company registration authority according to law and obtain a business license. 
+The measures for the examination and approval of the branches of foreign companies shall be formulated by the State Council in addition.
+ Article 194 Where a foreign company establishes any branch within the territory of China, it must appoint a representative or an agent within the territory of China to take charge of the branch, and shall allocate to the branch corresponding funds for the business activities it is engaged in.
+ Article 195 The branch of any foreign company shall indicate in its name, the nationality and the form of liability of the foreign company concerned.
+The branch of a foreign company shall keep the articles of corporation of the foreign company at its own place.
+ Article 196 The branch of a foreign company established within the territory of China does not have the status of a legal person.
+The foreign company shall bear civil liabilities for the business operation of its branches undertaken within the territory of China.
+ Article 197 The branches of foreign companies which are established upon approval shall accord with the laws of China when undertaking their business activities within the territory of China, and may not injure the social public interests of China, and the lawful rights and interests thereof shall be protected by Chinese law.
+ Article 198 Where a foreign company relinquishes any of its branches within the territory of China, it shall clear off the debts thereof according to law, and shall carry out a liquidation in accordance with the provisions of this Law on the procedures for the liquidation of companies. Before the debts are cleared off, it may not transfer any of the properties of the branch out of China.
+ 
+ 
+Chapter XII Legal Liabilities
+ Article 199 Where anyone, in violation of the provisions of this Law, obtains the registration of a company by making a false report of his register capital, submitting false materials or by any other fraudulent means so as to conceal important facts, he shall be ordered by the company registration authority to make rectifications. In the case of making a false report of his register capital, he shall be fined not less than 5% but not more than 15% of the fabricated registered capital; in the case of submitting false materials or by any other fraudulent means so as to conceal important facts, he shall be fined not less than 5,000 Yuan but not more than 50,000 Yuan; if the circumstances are serious, the company registration shall be canceled or the business license shall be revoked.
+ Article 200 Any of the initiators or shareholders of a company, who makes any false capital contribution, or fails to deliver or fails to deliver in time the currency or non-currency properties used as capital contributions, shall be ordered by the company registration authority to make rectifications, and shall be fined not less than 5% but not more than 15% of the sum of false capital contributions.
+ Article 201 Where any initiator or shareholder illegally take away its capital contribution after the company is established, he shall be ordered by the company registration authority to make rectifications, and shall be fined not less than 5% but not more than 15% of the capital contribution he has unlawfully taken away.
+ Article 202 Any company which has established another account books apart from the legally prescribed account books and violates of this Law shall be ordered by the treasury department of the people's government at the county level or above to make rectifications, and shall be fined not less than 50,000 Yuan but not more than 500, 000 Yuan.
+ Article 203 Where a company makes any false records or conceals any important fact in such materials as financial and accounting statements submitted to the relevant departments in charge, the relevant department in charge shall impose a fine of not more than 30, 000 Yuan but not more than 300, 000 Yuan upon the directly liable persons in charge and other directly liable persons.
+ Article 204 Where a company fails to draw legal reserved funds according to this Law, it shall be ordered by the treasury department of the people's government at the county level or above to make up the amount it is due, and may be fined up to 200, 000 Yuan.
+ Article 205 Where any company fails to inform its creditors by notice or by public announcement during the process of merger, split, reducing its registered capital or liquidation, it shall be ordered by the company registration authority to make rectifications, and may be fined not less than 10, 000 Yuan but not more than 100, 000 Yuan.
+Where, during the process of liquidation, any company hides any of its properties or makes any false record in its balance sheet or property checklist, or distributes any of the company's properties before clearing off its debts, it shall be ordered by the company registration authority to make rectifications, and may be fined not less than 5% but not more than 10% of the value of the company properties it has hidden or distributed prior to the clearing of company debts, and the directly liable person-in-charge as well other directly liable persons may be fined not less than 10, 000 Yuan but not more than100, 000 Yuan.
+ Article 206 Where, during the process of liquidation, any company undertakes any business activity which has nothing to do with the liquidation, it shall be admonished by the company registration authority, and its illegal proceeds shall be confiscated.
+ Article 207 Where the liquidation group fails to submit a liquidation report to the company registration authority according to the provisions of this Law, or where any important fact is concealed or there is any important omission in the liquidation report it submits, it shall be ordered by the company registration authority to make rectifications.
+Where any member of the liquidation group takes advantage of his power to seek illegal benefits for himself or any of his relatives, procures any illegal gains or misappropriates any of the properties of the company, he shall be ordered by the company registration authority to return the properties of the company with his illegal gains being confiscated, and shall be fined 1 up to 5 times of the illegal proceeds.
+ Article 208 Where any institution that undertakes the evaluation or verification of assets or the verification of certificates provides any false materials, its illegal proceeds shall be confiscated by the company registration authority, and be fined 1 up to 5 times of the illegal proceeds, and may be ordered by the competent administrative department to suspend its business operation or to withdraw the qualification certificates of the directly liable persons, and revoke its business license.
+Where any institution that undertakes the evaluation or verification of assets or the verification of certificates makes any important omission in the report it submits, it shall be ordered by the company registration authority to make rectifications; if the circumstances are serious, it shall be fined 1 up to 5 times of the proceeds it has obtained, and may be ordered by the competent administrative department to suspend its business operation and to withdraw the qualification certificates of the directly liable persons, and revoke its business license. Where the evaluation result or proof of asset verification or certificate verification, as provided by any institution that undertakes the evaluation or verification of assets or the verification of certificates, is proved to be untrue, which has caused any loss to the creditors of the company, it shall bear the compensation liabilities within the sum which is found to be untrue, unless it can prove that it has no fault in the incurrence of the loss.
+ Article 209 Where any company registration authority registers any application that does not meet the conditions as provided for in this Law, or fails to register any application that meets the conditions as prescribed in this Law, the directly liable person-in-charge and other directly liable persons shall be imposed upon an administrative sanction.
+ Article 210 Where the superior administration of any company registration authority forces the latter to register any application that does not satisfy the conditions as prescribed in this Law or to refuse any application that meets the conditions as provided for in this Law, or covers up for any illegal registration, the directly liable person-in-charge and other directly liable persons shall be imposed upon an administrative sanction according to law.
+ Article 211 Where anyone fails to register as a limited liability company or joint stock limited company according to law but undertakes business operation in the name of a limited liability company or joint stock limited company, or fails to register as a branch of a limited liability company or joint stock limited company according to law but undertakes business operation in the name of a branch of the limited liability company or joint stock limited company, it shall be ordered by the company registration authority to make rectifications or be closed down, and may be fined not more than 100,000 Yuan.
+ Article 212 Where any company fails to start its business operation six months after the incorporation of it without justifiable reasons, or suspends its business operation on its own initiative for consecutive six months after it has started the business operation, its business license may be revoked by the company registration authority.
+Where any registered item of any company changes, and the company fails to go through the corresponding modification registration according to this Law, it shall be ordered by the company registration authority to make modification registration within a time limit; if it still fails to make the registration, it shall be fined not less than 10, 000 Yuan but not more than 100, 000 Yuan.
+ Article 213 Where any foreign company violates this Law by illegally establishing any branch within China, it shall be ordered by the company registration authority to make rectification or to close it down, and may be fined not less than 50,000 Yuan but not more than 200, 000 Yuan.
+ Article 214 Where anyone commits, in the name of a company, any serious violation of law so that the security of the state or the public interests of the society is injured, the business license of the company shall be revoked.
+ Article 215 Where a company violates any provision of this Law, it shall bear the corresponding civil liabilities of compensation, and shall pay the corresponding fines and pecuniary penalties; if the property thereof is not enough to pay for all of these, it shall bear the civil liabilities first.
+ Article 216 Where any company violates this Law and any crime is constituted, it shall be subject to criminal liabilities.
+ 
+ 
+Chapter XIII Supplementary Provisions
+ Article 217 Definitions of the following terms:
+ (1) The "senior manager" refers to the manager, vice manager, person in charge of finance of a company, and the secretary of the board of directors of a listed company as well as any other person as stimulated in the articles of association.
+ (2) The "holding shareholder" refers to a shareholder whose capital contribution occupies 50% or more of the total capital of a limited liability company, or a shareholder whose shares occupy more than 50% of the total equity shares of a joint stock limited company, or a shareholder whose capital contribution or proportion of shares is less than 50% but who enjoys a voting right according to its capital contribution or the shares it holds is large enough to impose an big impact upon the resolution of the shareholders' meeting or the shareholders' assembly.
+ (3) The "actual controller" refers to anyone who is not a shareholder but is able to hold actual control of the acts of the company by means of investment relations, agreements or any other arrangements.
+ (4) The "connection relationship" refers to the relationship between the holding shareholder, actual controller, director, supervisor, or senior manager of a company and the enterprise directly or indirectly controlled thereby, and any other relationship that may lead to the transfer of any interests of the company. However, the enterprises controlled by the state do not incur a connection relationship simply because their shares are controlled by the state.
+ Article 218 The limited liability companies and joint stock limited companies invested by foreign investors shall be governed by this Law. Where there are otherwise different provisions in any law regarding foreign investment, such provisions shall prevail.
+ Article 219 This Law shall go into effect on January 1, 2006. 
+ 
+Promulgated by the Standing Committee of the National People's Congress on 2005-10-27
+
+
+
+
+
+
+
+
+
+
+相关文章
+
+
+
+
+
+
+ 中华人民共和国公司法
+02-26
+
+
+ 国家工商行政管理总局外商投资企业注册局负责人就《关于外商投资的公司审批登记管理法律适用若干问题的...
+05-10
+
+
+ 全国人大常委会通过关于修改《公司法》决定
+12-31
+
+
+
+
+
